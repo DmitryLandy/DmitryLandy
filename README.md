@@ -1,6 +1,6 @@
 ## Welcome to My Github Profile!
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge)](https://dmitrylandy.github.io/)<br>
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fdmitrylandy.github.io%2F)](https://dmitrylandy.github.io/)<br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrylandy/)
 
 <img align="right" alt="img" src="https://github.com/DmitryLandy/DmitryLandy/blob/master/values.png" width="60%" height="auto" />
