@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&)](https://Dmitrylandy.github.io)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrylandy/)
 
-<img align="right" alt="img" src="https://github.com/DmitryLandy/DmitryLandy/blob/master/values.png" width="80%" height="auto" />
+<img align="right" alt="img" src="https://github.com/DmitryLandy/DmitryLandy/blob/master/values.png" width="60%" height="auto" />
 
 
 ## Aspiring Software Developer
@@ -21,8 +21,8 @@
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmitrylandy&show_icons=true&theme=algolia&hide_border=true" />
 
-<code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img width="30%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img width="10%" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
