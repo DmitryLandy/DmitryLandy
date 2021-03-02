@@ -8,7 +8,7 @@
 
 ## Aspiring Software Developer
 
-- 🔭 I'm working on a bug tracking project
+- 🔭 I'm working on a [bug tracking project](https://github.com/DmitryLandy/Bug-Tracker)
 - 🌱 I’m currently learning about machine learning!
 - 🥅 2021 Goals: Get a great sofware development role and put my skills to the test!
 - ⚡ Fun fact: I love to draw and spend time with my puppy!
