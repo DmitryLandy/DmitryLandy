@@ -25,7 +25,7 @@
 <code><img width="10%" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png"></code>
 <code><img width="10%" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></code>
 <code><img width="10%" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
 
 </p>
