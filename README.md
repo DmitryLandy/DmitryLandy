@@ -9,9 +9,9 @@
 ## Aspiring Software Developer
 
 - 🔭 I'm working on a [bug tracking project](https://github.com/DmitryLandy/Bug-Tracker)
-- 🌱 I’m currently learning about machine learning!
+- 🌱 I’m currently learning about machine learning, C, and Python.
 - 🥅 2021 Goals: Get a great sofware development role and put my skills to the test!
-- ⚡ Fun fact: I love to draw and spend time with my puppy!
+- ⚡ Fun fact: I love to draw, refurbish furniture, and spend time with my family!
 
 ### Languages and Tools:
 
