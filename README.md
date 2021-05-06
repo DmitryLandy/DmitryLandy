@@ -8,8 +8,8 @@
 
 ## Aspiring Software Developer
 
-- 🔭 I'm working on a [bug tracking project](https://github.com/DmitryLandy/Bug-Tracker)
-- 🌱 I’m currently learning about machine learning, C, and Python.
+- 🔭 I'm working on a task tracking project
+- 🌱 I’m currently learning about ASP.NET core web apps and Azure.
 - 🥅 2021 Goals: Get a great sofware development role and put my skills to the test!
 - ⚡ Fun fact: I love to draw, refurbish furniture, and spend time with my family!
 
