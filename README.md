@@ -19,15 +19,6 @@
 <p>
 	<img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=dmitrylandy&show_icons=true&theme=algolia&hide_border=true" />
 
-<code><img width="10%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<br />
-<code><img width="10%" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png"></code>
-<code><img width="10%" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></code>
-<code><img width="10%" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"></code>
-
 </p>
 
 <br>
